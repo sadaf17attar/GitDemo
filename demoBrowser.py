@@ -13,6 +13,7 @@ driver.get("https://rahulshettyacademy.com/AutomationPractice/")
 driver.minimize_window()
 driver.back()
 driver.refresh()
+driver.fullscreen_window()
 driver.close()
 
 
